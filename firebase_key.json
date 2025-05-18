@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dashboard-coaching",
+  "private_key_id": "74b124e6e1499fe9ca4cdcbe6b26f6839054a646",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCnXqsPcNcIRAAr\ndF+ExliK+F1qT6QdUIwJZFm5OVjLZjttrDAYsMcSiOLMHQXSzqq02g4Dj6rzyjb0\n82pXetpp/QQKSPpKwtgyNZwtmlnTgEee6VoU2RmrXJahE0amTLwtRGPQPC18ZvGO\n/9h3VDXNMG/vFFTunaGONc4IAlULMkChCFMNe3pMhd21Wjnqz38xkARvz+W/Bgz+\nNuOrsl56ps9kyI0qlZBpP6WIarFoneFaL9lJcCUFOONJlQB1Qt6a11mtkt7lQCdH\noiLcRzJyitgmOOMAz72ltSaXMe8Q9v7l0D1IHs/hoaC0fgr6bybKhfnLZET+z9f/\nEZepXy5FAgMBAAECggEADd0JFU/W9+/OBctvaAuX5Pb6oeYz5Vu5JcQCrJWD9eEj\ndguntjvaWX4uLxMOWu5UdIOFWqUpV2U+FR8ehV1/Pv0+uu1dkhi+mLYZGCvrWdoL\n1K1mkUiEWE3kijYTCY5cnfFGxUZezCmow5wMnaHDjRoAg5CvEk7LRYDObppm2fTu\n1ZwDYw4tcZMgOpiqun30pySxm38S3YW4R05qR/Ve6NjVOharlApgaE/k+MULT36S\n9/oIwwgQecGDBJ10tsK1UtPdSPCj4Gh6BvO4EcIaF6794pUYmF9D3mwzwWL2jiCK\n51PR0lRTc/y+7nyNy8ckCeLuqSqzeYbJwJOeVmrZFwKBgQDW9Yb+7jOwpX8XvSOU\nuT7wPrStb60S36fuN7u0qZN7+WWSq7ZCtqlq22pI3qxwqWZtRsVgft/7ss5zp/Db\ngTbBn5teBUdWTPhOKhLVI/AFxRci4GoH27fOGEciS5zQtaeB0aW+ulN3W+qK6uIi\ntCi0dH2f+y/h9sXPSsOQW2u5iwKBgQDHUyMnOVsldUtl8cH1tZOFxYtxBeeHRdzY\nM4y48/E91zafgAm/TTsjwMwtHpnp2wWh1z3TNvEMWfw8vcvKBX/oL4w91HxyEwqL\niwbTamEhy0aZBXADCuFEhfOn1jfdiHXNrcY6czChA4ZTuCMxGF6No7pHFjHDS3am\nhtOV4vaRbwKBgQCJFuUVSEzm52T6esFqZAnjpdoMkiBK3SB4KEspmMxaUF+a/q+q\nNFwvredGudw3rZGJN41BUSj/mLVZxU0ycGG/ck7f03X/b+8bynFgRR8aTuvGbmCw\nykuawJj9IkPMR02g2VdfH+2DPbeDCPFXOJaNH43OrZ+H+J2G6iN2uRcmqQKBgAXq\nYLu0RxE4hvFSmHgLWIJ612WWUEXCfAhqlz2R99HnBjb7nM5xo1SvTx/zrYu0NVmV\nQr92/PZp4UOIOnkXarFgX+Ah40Obbw+vI5e4q4NOPh0ifS2J8B+Rfia4A9ZuS1i8\nVIq9im7s5NqtN1Yoq/22Izwi2305Sx8sFzF2l+y/AoGADRDjBpmq5wGs0Uzx2fOh\n4GUQI9qLKEgI0Cb+u5orc8N/Lkz97BjwfTHzDwnnCQNA4Ney8bl6dNu0sZhCJYDk\nVXdQK9xd6vP96ADodjacldkEYbu5p3/yxuPyQihWgSUJKB7wFxOgq5HVvNmurCPE\nojKOc9/mfHhhb4pQOX/dRKE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@dashboard-coaching.iam.gserviceaccount.com",
+  "client_id": "105393241688522376102",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40dashboard-coaching.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
